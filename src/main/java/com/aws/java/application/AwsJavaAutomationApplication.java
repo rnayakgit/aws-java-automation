@@ -2,7 +2,7 @@ package com.aws.java.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//Aws
 @SpringBootApplication
 public class AwsJavaAutomationApplication {
 
